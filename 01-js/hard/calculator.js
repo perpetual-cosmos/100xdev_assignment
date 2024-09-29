@@ -16,6 +16,8 @@
   Once you've implemented the logic, test your code by running
 */
 
-class Calculator {}
+class Calculator {
+  //here
+}
 
 module.exports = Calculator;
